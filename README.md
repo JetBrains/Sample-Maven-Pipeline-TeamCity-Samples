@@ -4,9 +4,8 @@ This is a sample Java project for TeamCity.
 
 Tutorials that use this project:
 
-* [TeamCity On-Premises](https://www.jetbrains.com/help/teamcity/create-pipeline.html)
-* [TeamCity Cloud](https://www.jetbrains.com/help/teamcity/cloud/create-pipeline.html)
-* [TeamCity Pipelines](https://www.jetbrains.com/help/teamcity/pipelines/tutorial-multi-job-pipeline.html)
+* [TeamCity On-Premises](https://www.jetbrains.com/help/teamcity/configure-and-run-your-first-build.html)
+* [TeamCity Cloud](https://www.jetbrains.com/help/teamcity/cloud/configure-and-run-your-first-build.html)
 
 
 ## Dependencies and Requirements
